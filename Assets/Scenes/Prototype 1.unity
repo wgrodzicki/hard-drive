@@ -1231,6 +1231,11 @@ PrefabInstance:
       propertyPath: _camera
       value: 
       objectReference: {fileID: 534669902}
+    - target: {fileID: 2320079781258086278, guid: aea2a6cdcc9d7944090d528486ebaee1,
+        type: 3}
+      propertyPath: TurnSpeed
+      value: 0.3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
