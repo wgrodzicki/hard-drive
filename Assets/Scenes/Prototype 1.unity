@@ -541,6 +541,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _player: {fileID: 1304235051}
+  _cameraPositions: {fileID: 11400000, guid: 3ffbb21fc70f7184983d0ab784dbb80b, type: 2}
 --- !u!1001 &660047902
 PrefabInstance:
   m_ObjectHideFlags: 0
